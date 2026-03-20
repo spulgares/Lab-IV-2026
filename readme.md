@@ -11,4 +11,4 @@ Aquí se encuentra el código de ejemplo para filtrar la data cargada y confecci
 
 ***
 
-si quieren subir su trabajo, hagan Fork del repositorio y agreguen una carpeta **Solo** con los códigos que confeccionan sus análisis, de preferencia un archivo para cada uno
+si quieren subir su trabajo, hagan Fork del repositorio y agreguen una carpeta con el nombre de la región asignada y su apellido, que contenga **Solo** los códigos que confeccionan sus análisis, de preferencia un archivo para cada uno
