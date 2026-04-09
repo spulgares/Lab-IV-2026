@@ -21,7 +21,7 @@ si quieren subir su trabajo, hagan Fork del repositorio y agreguen una carpeta c
 Recursos de aprendizaje
 
 El manual de microdatos del censo se encuentra en:
-    <https://censo2024.ine.gob.cl/wp-content/uploads/2025/12/manual_uso_microdatos_censo2024.pdf>\
+    <https://censo2024.ine.gob.cl/wp-content/uploads/2025/12/manual_uso_microdatos_censo2024.pdf>
 
 Los siguientes artículos le ayudarán a realizar el trabajo durante el semestre:
 
